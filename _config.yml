@@ -160,12 +160,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Unoversity of Kashan
+        title: University of Kashan
         caption: 2003 – 2008
         sub_title: BSc Computer Science
 
       - layout: left
-        title: Unoversity of Tehran
+        title: University of Tehran
         caption: 2008 – 2011
         sub_title: Master of Applied Mathematics
         description: | # this will include new lines to allow paragraphs
