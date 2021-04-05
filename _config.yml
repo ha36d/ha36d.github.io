@@ -1,0 +1,201 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Hamed Faramarzi
+title: DevOps/SRE/System and Network Engineer
+email: hamed@faramarzi.net
+website: https://faramarzi.net
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username:
+github_username:  ha36d
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username:
+linkedin_username: hamedfaramarzi
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username:
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: faramarzi.net
+  icon: fas fa-globe
+  url: https://www.faramarzi.net
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Hamed. I’m Lead DevOps. I am a tech junkie (neither geek nor nerd), that can talk about beers, music, and cinema for hours :) If it is related to dev, devops, system, network or voice, I'm in ;)
+
+  But I am also skilled in <mark>Cooking and Making Cocktails</mark>.
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Diabolocom
+        sub_title: Lead Devops and Telecom
+        caption: August 2017 – Present
+        # quote: >
+          # Solving
+        description: | # this will include new lines to allow paragraphs
+          Design, Implementing and Maintenance of Diabolocom Data Centers infras and its SaaS services.Operation Lead of a team with the following stack of Technology: 5 datacenters in Europe, and the public clouds of AWS and GCP. Terraform for Orchestration, and Ansible for CM. K8s for Docker Orchestration, and migrating the applications. Gitlab and Rundeck for CI/CD. Proxmox, Ceph, etc. MySQL, PostgreSQL, ES, MongoDB. HA/LB for HTTP/RTC/SIP/RTP. BGP, IS-IS. Python
+      - layout: left
+        title: Tosan
+        sub_title: Senior System and Network Engineer
+        caption: 2016 – 2017
+        description: | # this will include new lines to allow paragraphs
+          Implementation, and Maintenance of Network Infra of Data Center of a Banking Solution ProviderWorking in a team with the following stack of Technology: Cisco, Juniper. BGP, OSPF. Ansible for CM. Python
+      - layout: left
+        title: ITO
+        sub_title: Lead System and Network Engineer
+        caption: 2013 – 2016
+        description: | # this will include new lines to allow paragraphs
+          Technical Management of a team, responsible of Design, Implementation, and Maintenance of 10 Data Centers(System/Network/Cloud Administration).
+      - layout: left
+        title: ITO
+        sub_title: Senior Engineer of System and Network
+        caption: 2011–2013
+        description: | # this will include new lines to allow paragraphs
+          Design, Maintenance, and Implementation of 10 Data Centers (System/Network/Cloud Administration).
+
+      - layout: left
+        title: Rasa Samaneh Paytakht
+        sub_title: CEO/CTO
+        caption: 2010 - 2011
+        description: | # this will include new lines to allow paragraphs
+          Technical Managing of a team, responsible of design, development, deployment, and maintenance of SaaS applications.
+
+      - layout: left
+        title: ITO
+        sub_title: Lead System and Network Engineer
+        caption: 2013 – 2016
+        description: | # this will include new lines to allow paragraphs
+          2008-2010IT Administrator,Viera (Pooya Andish Vatan), Tehran, Iran.Infrastructure and System administration.
+
+      - layout: left
+        title: Tejarat Hooshmand Zomorrod
+        sub_title: Developer
+        caption: 2005 - 2008
+        description: | # this will include new lines to allow paragraphs
+          Java (J2EE) Software Developer.
+
+      - layout: left
+        title: Farnam
+        sub_title: System Administrator
+        caption: 2003 - 2005
+        description: | # this will include new lines to allow paragraphs
+          System Administrator.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Implementing a Geolocational Public DNS Servers with the following stack of Technology
+        caption: 2016
+        description: | # this will include new lines to allow paragraphs
+          Bind, Zebra, Bind, Cisco ASR, BGP AnyCast
+    content:
+      - layout: left
+        title: Public Email System with the following stack of Technology
+        caption: 2015
+        description: | # this will include new lines to allow paragraphs
+          GlusterFS, Postfix, Dovecot, OpenLDAP, MySQL, Galera
+    content:
+      - layout: left
+        title: Designing and Implementing of 10 Datacenters with the following stack of Technology
+        caption: 2013–2015
+        description: | # this will include new lines to allow paragraphs
+          OpenStack
+    content:
+      - layout: left
+        title: Design/Implementing a Cash Subsidies Service with the following stack of Technology
+        caption: 2014
+        description: | # this will include new lines to allow paragraphs
+          Apache Storm, J2EE, Hadoop, Cassandra
+    content:
+      - layout: left
+        title: Design/Implementing Portal with the following stack of Technology
+        caption: 2015
+        description: | # this will include new lines to allow paragraphs
+          Liferay
+    content:
+      - layout: left
+        title: Distribution of the Basket of Goods Webservice with the following stack of Technology
+        caption: 2014
+        description: | # this will include new lines to allow paragraphs
+           J2EE, Oracle RAC
+    content:
+      - layout: left
+        title: Yooz Search Engine with the following stack of Technology
+        caption: 2014–2015
+        description: | # this will include new lines to allow paragraphs
+          Apache Hadoop, Flume, Nutch
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Unoversity of Kashan
+        caption: 2003 – 2008
+        sub_title: BSc Computer Science
+
+      - layout: left
+        title: Unoversity of Tehran
+        caption: 2008 – 2011
+        sub_title: Master of Applied Mathematics
+        description: | # this will include new lines to allow paragraphs
+          Graph Theory-Social Network Analysis Approach
+
+      - layout: left
+        title: Ferdowsi University of Mashhad
+        caption: 2011 – 2017
+        sub_title: PhD of Applied Mathematics
+        description: | # this will include new lines to allow paragraphs
+          On Distance-Based Graph Invariants
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Music (Rock, Jazz)
+      - Cinema
+      - Contributing in Python and Go.
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
