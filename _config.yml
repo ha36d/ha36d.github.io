@@ -91,11 +91,11 @@ content:
           Technical Managing of a team, responsible of design, development, deployment, and maintenance of SaaS applications.
 
       - layout: left
-        title: ITO
-        sub_title: Lead System and Network Engineer
-        caption: 2013 – 2016
+        title: Viera (Pooya Andish Vatan)
+        sub_title: IT Administrator
+        caption: 2008 - 2010
         description: | # this will include new lines to allow paragraphs
-          2008-2010IT Administrator,Viera (Pooya Andish Vatan), Tehran, Iran.Infrastructure and System administration.
+          Infrastructure and System administration.
 
       - layout: left
         title: Tejarat Hooshmand Zomorrod
@@ -109,7 +109,7 @@ content:
         sub_title: System Administrator
         caption: 2003 - 2005
         description: | # this will include new lines to allow paragraphs
-          System Administrator.
+          System Administrator
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
