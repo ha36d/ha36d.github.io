@@ -31,9 +31,9 @@ youtube_username:
 
 # Additional icon links
 additional_links:
-- title: faramarzi.net
+- title: blog
   icon: fas fa-globe
-  url: https://www.faramarzi.net
+  url: https://blog.faramarzi.net
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
