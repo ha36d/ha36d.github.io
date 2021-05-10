@@ -57,13 +57,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Diabolocom
-        sub_title: Lead Devops and Telecom
-        caption: August 2017 – Present
+        title: Manomano
+        sub_title: SRE
+        caption: May 2021 – Present
         # quote: >
           # Solving
         description: | # this will include new lines to allow paragraphs
-          Design, Implementing and Maintenance of Diabolocom Data Centers infras and its SaaS services.Operation Lead of a team with the following stack of Technology: 5 datacenters in Europe, and the public clouds of AWS and GCP. Terraform for Orchestration, and Ansible for CM. K8s for Docker Orchestration, and migrating the applications. Gitlab and Rundeck for CI/CD. Proxmox, Ceph, etc. MySQL, PostgreSQL, ES, MongoDB. HA/LB for HTTP/RTC/SIP/RTP. BGP, IS-IS. Python
+          Design, Implementing and Maintenance of Manomano infras and its SaaS services.
+      - layout: left
+        title: Diabolocom
+        sub_title: Lead Devops and Telecom
+        caption: August 2017 – May 2021
+        # quote: >
+          # Solving
+        description: | # this will include new lines to allow paragraphs
+          Design, Implementing and Maintenance of Diabolocom Data Centers infras and its SaaS services. Operation Lead of a team with the following stack of Technology: 5 datacenters in Europe, and the public clouds of AWS and GCP. Terraform for Orchestration, and Ansible for CM. K8s for Docker Orchestration, and migrating the applications. Gitlab and Rundeck for CI/CD. Proxmox, Ceph, etc. MySQL, PostgreSQL, ES, MongoDB. HA/LB for HTTP/RTC/SIP/RTP. BGP, IS-IS. Python
       - layout: left
         title: Tosan
         sub_title: Senior System and Network Engineer
