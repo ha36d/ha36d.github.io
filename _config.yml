@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Hamed Faramarzi
-title: DevOps/SRE/System and Network Engineer
+title: Modern SRE and Old school System and Network Engineer
 email: hamed@faramarzi.net
 website: https://faramarzi.net
 
@@ -57,9 +57,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Altair
+        sub_title: Senior SRE
+        caption: April 2022 – Present
+        # quote: >
+          # Solving
+        description: | # this will include new lines to allow paragraphs
+          Design, Implementing and Maintenance of Altair infras and its SaaS services.
+      - layout: left
         title: Manomano
         sub_title: Staff SRE
-        caption: May 2021 – Present
+        caption: May 2021 – April 2022
         # quote: >
           # Solving
         description: | # this will include new lines to allow paragraphs
