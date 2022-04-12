@@ -58,12 +58,12 @@ content:
     content:
       - layout: left
         title: Altair
-        sub_title: Senior SRE
+        sub_title: Senior Devops
         caption: April 2022 – Present
         # quote: >
           # Solving
         description: | # this will include new lines to allow paragraphs
-          Design, Implementing and Maintenance of Altair infras and its SaaS services.
+          Design, Implementing and Maintenance of Altair HPC and infra services.
       - layout: left
         title: Manomano
         sub_title: Staff SRE
