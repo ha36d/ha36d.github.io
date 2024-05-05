@@ -63,7 +63,7 @@ content:
         # quote: >
           # Solving
         description: | # this will include new lines to allow paragraphs
-          Design, Implementing and Maintenance of Altair HPC and infra services.
+          Lead Global Cloud Infrastructure
       - layout: left
         title: Manomano
         sub_title: Staff SRE
@@ -198,8 +198,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Music (Rock, Jazz)
-      - Cinema
+      - Playing Guitar (Rock)
+      - Cinephilia
+      - Bibliophile
+      - Photography
       - Contributing in Python and Go.
 
 # Footer
