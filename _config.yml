@@ -135,37 +135,31 @@ content:
         caption: 2016
         description: | # this will include new lines to allow paragraphs
           Bind, Zebra, Bind, Cisco ASR, BGP AnyCast
-    content:
       - layout: left
         title: Public Email System with the following stack of Technology
         caption: 2015
         description: | # this will include new lines to allow paragraphs
           GlusterFS, Postfix, Dovecot, OpenLDAP, MySQL, Galera
-    content:
       - layout: left
         title: Designing and Implementing of 10 Datacenters with the following stack of Technology
         caption: 2013–2015
         description: | # this will include new lines to allow paragraphs
           OpenStack
-    content:
       - layout: left
         title: Design/Implementing a Cash Subsidies Service with the following stack of Technology
         caption: 2014
         description: | # this will include new lines to allow paragraphs
           Apache Storm, J2EE, Hadoop, Cassandra
-    content:
       - layout: left
         title: Design/Implementing Portal with the following stack of Technology
         caption: 2015
         description: | # this will include new lines to allow paragraphs
           Liferay
-    content:
       - layout: left
         title: Distribution of the Basket of Goods Webservice with the following stack of Technology
         caption: 2014
         description: | # this will include new lines to allow paragraphs
            J2EE, Oracle RAC
-    content:
       - layout: left
         title: Yooz Search Engine with the following stack of Technology
         caption: 2014–2015
