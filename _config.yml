@@ -31,12 +31,12 @@ youtube_username:
 
 # Additional icon links
 additional_links:
+- title: Medium
+  icon: fa-brands fa-medium
+  url: https://medium.com/@hamed.faramarzi
 - title: blog
-  icon: fas fa-globe
+  icon: fa-brands fa-blogger
   url: https://blog.faramarzi.net
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
