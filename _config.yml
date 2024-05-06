@@ -32,10 +32,10 @@ youtube_username:
 # Additional icon links
 additional_links:
 - title: Medium
-  icon: fa-brands fa-medium
+  icon: fab medium
   url: https://medium.com/@hamed.faramarzi
 - title: blog
-  icon: fa-brands fa-blogger
+  icon: fab blogger
   url: https://blog.faramarzi.net
 
 # Google Analytics and Tag Manager
