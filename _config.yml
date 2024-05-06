@@ -127,6 +127,29 @@ content:
         description: | # this will include new lines to allow paragraphs
           System Administrator
 
+  - title: Certificates # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Professional Cloud DevOps Engineer
+        caption: 2024 – 2026
+        sub_title: Google
+
+      - layout: left
+        title: Professional Cloud Architect
+        caption: 2023 – 2025
+        sub_title: Google
+
+      - layout: left
+        title: Certified Kubernetes Administrator
+        caption: 2023 – 2026
+        sub_title: The Linux Foundation
+
+      - layout: left
+        title: GitLab Certified CI/CD Associate
+        caption: 2023 – 2026
+        sub_title: GitLab
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
