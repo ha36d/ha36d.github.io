@@ -52,6 +52,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   But I am also skilled in <mark>Cooking and Making Cocktails</mark>.
 
+  I am solo traveller and you can check my photos in my flickr account and read my travel guides in my weblog.
+
+  More about me is at the end of this page.
+
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -214,7 +218,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in software engineering, some of my other interests and hobbies are:
       - Playing Guitar (Rock)
       - Cinephilia
       - Bibliophilia
@@ -222,7 +226,7 @@ content:
       - Contributing in Python and Go.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
