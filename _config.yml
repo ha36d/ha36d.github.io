@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 3
+version: 2
 
 # Personal info
 name: Hamed Faramarzi
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   More about me is at the end of this page.
 
 content:
-  - title: Experience # Title for the section
+  - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
