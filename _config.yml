@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   More about me is at the end of this page.
 
 content:
-  - title: Experiences # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
