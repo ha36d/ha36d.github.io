@@ -3,11 +3,11 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: Hamed Faramarzi
-title: Modern SRE and Old school System and Network Engineer
+title: Lead SRE
 email: hamed@faramarzi.net
 website: https://faramarzi.net
 
@@ -52,12 +52,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   But I am also skilled in <mark>Cooking and Making Cocktails</mark>.
 
-  I am solo traveller and you can check my photos in my flickr account and read my travel guides in my weblog.
+  I am also a solo traveller. My photos and travel guides can be found in my flickr and blog respectively.
 
   More about me is at the end of this page.
 
 content:
-  - title: Experience # Title for the section
+  - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
