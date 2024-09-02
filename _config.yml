@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: ha36d/modern-resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -45,6 +45,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 google_analytics_4: "G-H72SW6XP6V"
 
 # About Section
@@ -233,7 +234,7 @@ footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: ha36d/modern-resume-theme
 
 sass:
   sass_dir: _sass
