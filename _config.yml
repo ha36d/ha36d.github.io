@@ -54,11 +54,9 @@ about_profile_image: images/newprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hamed. I’m Lead DevOps. I am a tech junkie (neither geek nor nerd), that can talk about music, cinema and beers for hours :) If it is related to dev, devops, system, network or voice, I'm in ;)
 
-  But I am also skilled in <mark>Cooking and Making Cocktails</mark>.
+  I am a solo traveller and photographer. These days, trying hard to make my first music album.
 
-  I am also a solo traveller. My photos and travel guides can be found in my flickr and blog respectively.
-
-  More about me is at the end of this page.
+  I am also skilled in <mark>Cooking and Making Cocktails</mark>
 
 content:
   - title: Experiences # Title for the section
