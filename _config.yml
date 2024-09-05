@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am a solo traveller and photographer. These days, trying hard to make my first music album.
 
-  I am also skilled in <mark>Cooking and Making Cocktails</mark>
+  I am also skilled in <mark>Cooking and Making Cocktails</mark>.
 
 content:
   - title: Experiences # Title for the section
