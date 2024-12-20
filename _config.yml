@@ -64,6 +64,14 @@ content:
     content:
       - layout: left
         title: Altair
+        sub_title: Lead Devops
+        caption: December 2024 – Present
+        # quote: >
+          # Solving
+        description: | # this will include new lines to allow paragraphs
+          Lead Global Cloud Infrastructure
+      - layout: left
+        title: Altair
         sub_title: Senior Devops
         caption: April 2022 – Present
         # quote: >
