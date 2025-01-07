@@ -47,8 +47,9 @@ additional_links:
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 google_analytics_4: "G-H72SW6XP6V"
-cmp: cookiebot
-cookiebot_id: "90b4633c-dbd6-4bdb-a24d-7f620d351527"
+cmp: iubenda
+iubenda_siteId: 3888236
+iubenda_cookiePolicyId: 11555628
 
 # About Section
 # about_title: About Me
