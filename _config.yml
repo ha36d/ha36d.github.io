@@ -46,11 +46,11 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-# google_analytics_4: "G-H72SW6XP6V"
-# gtag: "G-H72SW6XP6V"
-# cmp: iubenda
-# iubenda_siteId: 3889465
-# iubenda_cookiePolicyId: 94161154
+google_analytics_4: "G-H72SW6XP6V"
+gtag: "G-H72SW6XP6V"
+cmp: iubenda
+iubenda_siteId: 3889465
+iubenda_cookiePolicyId: 94161154
 
 # About Section
 # about_title: About Me
