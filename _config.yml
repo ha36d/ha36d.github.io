@@ -47,7 +47,7 @@ additional_links:
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 google_analytics_4: "G-H72SW6XP6V"
-gtag: "G-H72SW6XP6V"
+# gtag: "G-H72SW6XP6V"
 cmp: iubenda
 iubenda_siteId: 3889465
 iubenda_cookiePolicyId: 94161154
