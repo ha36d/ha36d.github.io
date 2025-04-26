@@ -154,6 +154,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Oracle Cloud Infrastructure 2025 DevOps Professional
+        caption: 2025 – 2027
+        sub_title: Oracle
+
+      - layout: left
         title: Professional Cloud DevOps Engineer
         caption: 2024 – 2026
         sub_title: Google
