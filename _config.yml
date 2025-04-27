@@ -25,7 +25,7 @@ instagram_username: ham3ddd
 linkedin_username: hamedfaramarzi
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username:
+youtube_username: ha36d
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -139,27 +139,27 @@ content:
         caption: 2025 – 2027
         title: Oracle Cloud Infrastructure 2025 Certified DevOps Professional
         description: |
-          issued by Oracle Cloud, Click <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=989F255539B760C8051C923CD9D3F56802AE249093FE0747F74BC277DDA22B4F">here</a> to view the certificate.
+          Issued by Oracle Cloud, click <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=989F255539B760C8051C923CD9D3F56802AE249093FE0747F74BC277DDA22B4F">here</a> to view the certificate.
       - layout: left
         title: Professional Cloud DevOps Engineer
         caption: 2024 – 2026
         description: |
-          issued by Google Cloud, Click <a href="https://www.credly.com/badges/5a3e5f9a-8628-42af-8df1-8d5542d04bc5">here</a> to view the certificate.
+          Issued by Google Cloud, click <a href="https://www.credly.com/badges/5a3e5f9a-8628-42af-8df1-8d5542d04bc5">here</a> to view the certificate.
       - layout: left
         title: Professional Cloud Architect
         caption: 2023 – 2025
         description: |
-          issued by Google Cloud, Click <a href="https://www.credly.com/badges/a7ad59cb-a92a-4871-a3b5-b05873723096">here</a> to view the certificate.
+          Issued by Google Cloud, click <a href="https://www.credly.com/badges/a7ad59cb-a92a-4871-a3b5-b05873723096">here</a> to view the certificate.
       - layout: left
         title: Certified Kubernetes Administrator (CKA)
         caption: 2023 – 2026
         description: |
-          issued by The Linux Foundation, Click <a href="https://www.credly.com/badges/344bca78-ef94-493b-9f91-ac310a9be35c/public_url">here</a> to view the certificate.
+          Issued by The Linux Foundation, click <a href="https://www.credly.com/badges/344bca78-ef94-493b-9f91-ac310a9be35c/public_url">here</a> to view the certificate.
       - layout: left
         caption: 2023
         title: GitLab Certified CI/CD Associate
         description: |
-          issued by GitLab, Click <a href="https://www.credly.com/badges/5e7d98de-0211-4f1f-a476-d2fa01c36cfd">here</a> to view the certificate.
+          Issued by GitLab, click <a href="https://www.credly.com/badges/5e7d98de-0211-4f1f-a476-d2fa01c36cfd">here</a> to view the certificate.
 
   - title: Projects
     layout: list
