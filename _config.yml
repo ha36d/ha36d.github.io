@@ -137,8 +137,7 @@ content:
     content:
       - layout: left
         title: Oracle Cloud Infrastructure 2025 DevOps Professional
-        caption: 2025 – 2027
-        sub_title: Oracle
+        description: Oracle (2025 – 2027)
       - layout: left
         title: Professional Cloud DevOps Engineer
         caption: 2024 – 2026
