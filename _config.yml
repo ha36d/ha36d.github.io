@@ -136,8 +136,11 @@ content:
     layout: list
     content:
       - layout: left
-        title: Oracle Cloud Infrastructure 2025 DevOps Professional
-        description: Oracle (2025 – 2027)
+        title: Oracle Cloud Infrastructure 2025 Certified DevOps Professional
+        caption: Oracle (2025 – 2027)
+        description: |
+          <a href="https://education.oracle.com/products/trackp_OCI25DOPOCP">Oracle DevOps Professional</a>
+        url: https://catalog-education.oracle.com/ords/certview/sharebadge?id=989F255539B760C8051C923CD9D3F56802AE249093FE0747F74BC277DDA22B4F
       - layout: left
         title: Professional Cloud DevOps Engineer
         caption: 2024 – 2026
