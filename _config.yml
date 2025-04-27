@@ -72,30 +72,6 @@ about_content: |
   I'm pretty handy in the kitchen and behind the bar — <mark>Cooking</mark> & <mark>Cocktail Making</mark> are my secret arts. 🍳🍸
 
 content:
-  - title: Certificates
-    layout: list
-    content:
-      - layout: left
-        title: Oracle Cloud Infrastructure 2025 DevOps Professional
-        caption: 2025 – 2027
-        sub_title: Oracle
-      - layout: left
-        title: Professional Cloud DevOps Engineer
-        caption: 2024 – 2026
-        sub_title: Google Cloud
-      - layout: left
-        title: Professional Cloud Architect
-        caption: 2023 – 2025
-        sub_title: Google Cloud
-      - layout: left
-        title: Certified Kubernetes Administrator (CKA)
-        caption: 2023 – 2026
-        sub_title: The Linux Foundation
-      - layout: left
-        title: GitLab Certified CI/CD Associate
-        caption: 2023 – 2026
-        sub_title: GitLab
-
   - title: Experiences
     layout: list
     content:
@@ -155,6 +131,30 @@ content:
         caption: 2003 – 2005
         description: |
           Administered IT infrastructure.
+
+  - title: Certificates
+    layout: list
+    content:
+      - layout: left
+        title: Oracle Cloud Infrastructure 2025 DevOps Professional
+        caption: 2025 – 2027
+        sub_title: Oracle
+      - layout: left
+        title: Professional Cloud DevOps Engineer
+        caption: 2024 – 2026
+        sub_title: Google Cloud
+      - layout: left
+        title: Professional Cloud Architect
+        caption: 2023 – 2025
+        sub_title: Google Cloud
+      - layout: left
+        title: Certified Kubernetes Administrator (CKA)
+        caption: 2023 – 2026
+        sub_title: The Linux Foundation
+      - layout: left
+        title: GitLab Certified CI/CD Associate
+        caption: 2023 – 2026
+        sub_title: GitLab
 
   - title: Projects
     layout: list
