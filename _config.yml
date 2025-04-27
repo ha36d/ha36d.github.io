@@ -11,13 +11,13 @@ title: Lead SRE
 email: hamed@faramarzi.net
 website: https://faramarzi.net
 
-# Dark Mode (true/false/never)
+# Dark Mode
 darkmode: true
 
 # Social links
 twitter_username: hammeeeddddd
-github_username:  ha36d
-stackoverflow_username: "2358483"
+github_username: ha36d
+stackoverflow_username: 2358483
 # dribbble_username: jekyll
 # facebook_username: jekyll
 flickr_username: 200614930@N07
@@ -60,194 +60,169 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/otherprofile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hamed. I’m Lead DevOps. I am a tech junkie (neither geek nor nerd), that can talk about music, cinema and beers for hours :) If it is related to dev, devops, system, network or voice, I'm in ;)
+about_content: |
+  Hi, I'm <b>Hamed</b> — a passionate <b>Lead SRE</b> and tech junkie.
+  When I'm not solving complex system challenges, you’ll find me talking for hours about <mark>music</mark>, <mark>cinema</mark>, and <mark>craft beers</mark>.
+  Whether it’s <b>development, DevOps, system engineering, networks, or voice solutions</b> — count me in! 🚀
 
-  I am a solo traveller and photographer. These days, trying hard to make my first music album in my free time. Here is my <a href="https://mooziq.app/">MooziQ</a> website. It is in its early stages, but I am working on it.
+  In my free time, I'm a <b>solo traveler</b> and an avid <b>photographer</b>.
+  Currently, I'm putting my soul into creating my very first music album. 🎶 Check out my project <a href="https://mooziq.app/">MooziQ</a> — still early days, but growing!
 
-  I am also skilled in <mark>Cooking and Making Cocktails</mark>.
+  Bonus skills?
+  I'm pretty handy in the kitchen and behind the bar — <mark>Cooking</mark> & <mark>Cocktail Making</mark> are my secret arts. 🍳🍸
 
 content:
-  - title: Experiences # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Altair
-        sub_title: Lead Devops
-        caption: December 2024 – Present
-        # quote: >
-          # Solving
-        description: | # this will include new lines to allow paragraphs
-          Lead Global Cloud Infrastructure
-      - layout: left
-        title: Altair
-        sub_title: Senior Devops
-        caption: April 2022 – December 2024
-        # quote: >
-          # Solving
-        description: | # this will include new lines to allow paragraphs
-          Lead Global Cloud Infrastructure
-      - layout: left
-        title: Manomano
-        sub_title: Staff SRE
-        caption: May 2021 – April 2022
-        # quote: >
-          # Solving
-        description: | # this will include new lines to allow paragraphs
-          Design, Implementing and Maintenance of Manomano infras and its SaaS services.
-      - layout: left
-        title: Diabolocom
-        sub_title: Lead Devops and Telecom
-        caption: August 2017 – May 2021
-        # quote: >
-          # Solving
-        description: | # this will include new lines to allow paragraphs
-          Design, Implementing and Maintenance of Diabolocom Data Centers infras and its SaaS services. Operation Lead of a team with the following stack of Technology: 5 datacenters in Europe, and the public clouds of AWS and GCP. Terraform for Orchestration, and Ansible for CM. K8s for Docker Orchestration, and migrating the applications. Gitlab and Rundeck for CI/CD. Proxmox, Ceph, etc. MySQL, PostgreSQL, ES, MongoDB. HA/LB for HTTP/RTC/SIP/RTP. BGP, IS-IS. Python
-      - layout: left
-        title: Tosan
-        sub_title: Senior System and Network Engineer
-        caption: 2016 – 2017
-        description: | # this will include new lines to allow paragraphs
-          Implementation, and Maintenance of Network Infra of Data Center of a Banking Solution ProviderWorking in a team with the following stack of Technology: Cisco, Juniper. BGP, OSPF. Ansible for CM. Python
-      - layout: left
-        title: ITO
-        sub_title: Lead System and Network Engineer
-        caption: 2013 – 2016
-        description: | # this will include new lines to allow paragraphs
-          Technical Management of a team, responsible of Design, Implementation, and Maintenance of 10 Data Centers(System/Network/Cloud Administration).
-      - layout: left
-        title: ITO
-        sub_title: Senior Engineer of System and Network
-        caption: 2011–2013
-        description: | # this will include new lines to allow paragraphs
-          Design, Maintenance, and Implementation of 10 Data Centers (System/Network/Cloud Administration).
-
-      - layout: left
-        title: Rasa Samaneh Paytakht
-        sub_title: CEO/CTO
-        caption: 2010 - 2011
-        description: | # this will include new lines to allow paragraphs
-          Technical Managing of a team, responsible of design, development, deployment, and maintenance of SaaS applications.
-
-      - layout: left
-        title: Viera (Pooya Andish Vatan)
-        sub_title: IT Administrator
-        caption: 2008 - 2010
-        description: | # this will include new lines to allow paragraphs
-          Infrastructure and System administration.
-
-      - layout: left
-        title: Tejarat Hooshmand Zomorrod
-        sub_title: Developer
-        caption: 2005 - 2008
-        description: | # this will include new lines to allow paragraphs
-          Java (J2EE) Software Developer.
-
-      - layout: left
-        title: Farnam
-        sub_title: System Administrator
-        caption: 2003 - 2005
-        description: | # this will include new lines to allow paragraphs
-          System Administrator
-
-  - title: Certificates # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Certificates
+    layout: list
     content:
       - layout: left
         title: Oracle Cloud Infrastructure 2025 DevOps Professional
         caption: 2025 – 2027
         sub_title: Oracle
-
       - layout: left
         title: Professional Cloud DevOps Engineer
         caption: 2024 – 2026
-        sub_title: Google
-
+        sub_title: Google Cloud
       - layout: left
         title: Professional Cloud Architect
         caption: 2023 – 2025
-        sub_title: Google
-
+        sub_title: Google Cloud
       - layout: left
-        title: Certified Kubernetes Administrator
+        title: Certified Kubernetes Administrator (CKA)
         caption: 2023 – 2026
         sub_title: The Linux Foundation
-
       - layout: left
         title: GitLab Certified CI/CD Associate
         caption: 2023 – 2026
         sub_title: GitLab
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experiences
+    layout: list
     content:
       - layout: left
-        title: Implementing a Geolocational Public DNS Servers
+        title: Altair
+        sub_title: Lead DevOps
+        caption: April 2022 – Present
+        description: |
+          Leading global cloud infrastructure initiatives.
+      - layout: left
+        title: Manomano
+        sub_title: Staff SRE
+        caption: May 2021 – April 2022
+        description: |
+          Designed, implemented, and maintained infrastructure and SaaS services.
+      - layout: left
+        title: Diabolocom
+        sub_title: Lead DevOps and Telecom
+        caption: August 2017 – May 2021
+        description: |
+          Led operations across 5 European datacenters and public clouds (AWS, GCP) and SaaS services.
+          Tech Stack: Terraform, Ansible, K8s, Gitlab, Proxmox, Ceph, MySQL, PostgreSQL, ES, MongoDB, HA/LB for HTTP/RTC/SIP/RTP, BGP, IS-IS, Python.
+      - layout: left
+        title: Tosan
+        sub_title: Senior System and Network Engineer
+        caption: 2016 – 2017
+        description: |
+          Implemented, and maintained the Data Center network infra for a banking solution provider.
+          Tech Stack: Cisco, Juniper, Ansible, Python.
+      - layout: left
+        title: ITO
+        sub_title: Lead System and Network Engineer
+        caption: 2011 – 2016
+        description: |
+          Led a team responsible for the design, deployment, and maintenance of 10 major datacenters.
+      - layout: left
+        title: Rasa Samaneh Paytakht
+        sub_title: CEO/CTO
+        caption: 2010 – 2011
+        description: |
+          Founded and led a tech company focused on SaaS platform development and deployment.
+      - layout: left
+        title: Viera (Pooya Andish Vatan)
+        sub_title: IT Administrator
+        caption: 2008 – 2010
+        description: |
+          System infrastructure management and server administration.
+      - layout: left
+        title: Tejarat Hooshmand Zomorrod
+        sub_title: Java Developer
+        caption: 2005 – 2008
+        description: |
+          Developed enterprise-level J2EE applications.
+      - layout: left
+        title: Farnam
+        sub_title: System Administrator
+        caption: 2003 – 2005
+        description: |
+          Administered IT infrastructure.
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Geo-locational Public DNS Servers
         caption: 2016
-        description: | # this will include new lines to allow paragraphs
-          Bind, Zebra, Bind, Cisco ASR, BGP AnyCast
+        description: |
+          Tech Stack: Bind, Zebra, Cisco ASR, BGP AnyCast.
       - layout: left
         title: Public Email System
         caption: 2015
-        description: | # this will include new lines to allow paragraphs
-          GlusterFS, Postfix, Dovecot, OpenLDAP, MySQL, Galera
+        description: |
+          Tech Stack: GlusterFS, Postfix, Dovecot, OpenLDAP, MySQL (Galera cluster).
       - layout: left
-        title: Designing and Implementing of 10 Datacenters
-        caption: 2013–2015
-        description: | # this will include new lines to allow paragraphs
-          OpenStack
+        title: Designing & Implementing 10 Datacenters
+        caption: 2013 – 2015
+        description: |
+          Tech Stack: OpenStack-based private cloud deployments.
       - layout: left
-        title: Design/Implementing a Cash Subsidies Service
+        title: Cash Subsidies Distribution System
         caption: 2014
-        description: | # this will include new lines to allow paragraphs
-          Apache Storm, J2EE, Hadoop, Cassandra
+        description: |
+          Tech Stack: Apache Storm, Hadoop, Cassandra, J2EE.
       - layout: left
-        title: Design/Implementing Portal
+        title: Enterprise Portal Development
         caption: 2015
-        description: | # this will include new lines to allow paragraphs
-          Liferay
+        description: |
+          Tech Stack: Liferay platform.
       - layout: left
-        title: Distribution of the Basket of Goods Webservice
+        title: Goods Distribution Webservice
         caption: 2014
-        description: | # this will include new lines to allow paragraphs
-           J2EE, Oracle RAC
+        description: |
+          Tech Stack: J2EE and Oracle RAC for high availability.
       - layout: left
-        title: Yooz Search Engine
-        caption: 2014–2015
-        description: | # this will include new lines to allow paragraphs
-          Apache Hadoop, Flume, Nutch
+        title: Yooz Search Engine Project
+        caption: 2014 – 2015
+        description: |
+          Tech Stack: Big Data Search Engine with Hadoop, Flume, and Nutch.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: University of Kashan
         caption: 2003 – 2008
         sub_title: BSc Computer Science
-
       - layout: left
         title: University of Tehran
         caption: 2008 – 2011
         sub_title: Master of Applied Mathematics
-        description: | # this will include new lines to allow paragraphs
-          Graph Theory-Social Network Analysis Approach
-
+        description: |
+          Specialization: Graph Theory
       - layout: left
         title: Ferdowsi University of Mashhad
         caption: 2011 – 2017
         sub_title: PhD of Applied Mathematics
-        description: | # this will include new lines to allow paragraphs
-          On Distance-Based Graph Invariants
+        description: |
+          Research Focus: Distance-Based Graph Invariants
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering, some of my other interests and hobbies are:
-      - Playing Guitar (Rock)
-      - Cinephilia
-      - Bibliophilia
-      - Photography
-      - Contributing in Python and Go.
+    content: |
+      Outside the tech world, I have a few passions:
+      - 🎸 Playing Guitar (especially Rock and Post-Rock)
+      - 🎬 Cinephilia (I breathe movies)
+      - 📚 Bibliophilia (Books are my second home)
+      - 📸 Photography (film photographer move towards digital)
 
 # Footer
 footer_show_references: false
