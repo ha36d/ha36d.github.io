@@ -136,25 +136,30 @@ content:
     layout: list
     content:
       - layout: left
+        caption: 2025 – 2027
         title: Oracle Cloud Infrastructure 2025 Certified DevOps Professional
         description: |
-          Oracle (2025 – 2027), <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=989F255539B760C8051C923CD9D3F56802AE249093FE0747F74BC277DDA22B4F">Show the certificate</a>
+          Oracle Cloud, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=989F255539B760C8051C923CD9D3F56802AE249093FE0747F74BC277DDA22B4F">Show the certificate</a>
       - layout: left
         title: Professional Cloud DevOps Engineer
+        caption: 2024 – 2026
         description: |
-          Google Cloud (2024 – 2026), <a href="https://www.credly.com/badges/5a3e5f9a-8628-42af-8df1-8d5542d04bc5">Show the certificate</a>
+          Google Cloud (), <a href="https://www.credly.com/badges/5a3e5f9a-8628-42af-8df1-8d5542d04bc5">Show the certificate</a>
       - layout: left
         title: Professional Cloud Architect
+        caption: 2023 – 2025
         description: |
-          Google Cloud (2023 – 2025), <a href="https://www.credly.com/badges/a7ad59cb-a92a-4871-a3b5-b05873723096">Show the certificate</a>
+          Google Cloud, <a href="https://www.credly.com/badges/a7ad59cb-a92a-4871-a3b5-b05873723096">Show the certificate</a>
       - layout: left
         title: Certified Kubernetes Administrator (CKA)
+        caption: 2023 – 2026
         description: |
-          The Linux Foundation (2023 – 2026), <a href="https://www.credly.com/badges/344bca78-ef94-493b-9f91-ac310a9be35c/public_url">Show the certificate</a>
+          The Linux Foundation, <a href="https://www.credly.com/badges/344bca78-ef94-493b-9f91-ac310a9be35c/public_url">Show the certificate</a>
       - layout: left
+        caption: 2023
         title: GitLab Certified CI/CD Associate
         description: |
-          GitLab (2023), <a href="https://www.credly.com/badges/5e7d98de-0211-4f1f-a476-d2fa01c36cfd">Show the certificate</a>
+          GitLab, <a href="https://www.credly.com/badges/5e7d98de-0211-4f1f-a476-d2fa01c36cfd">Show the certificate</a>
 
   - title: Projects
     layout: list
