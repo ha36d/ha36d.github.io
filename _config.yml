@@ -138,6 +138,11 @@ content:
     content:
       - layout: left
         caption: 2025 – 2027
+        title: Oracle Cloud Infrastructure 2025 Certified Architect Associate
+        description: |
+          Issued by Oracle Cloud, click <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BEE0049F6F70C9DA038B08AA634D519F18B1F6FAFFF495228CF8BB584B8A0C97">here</a> to view the certificate.
+      - layout: left
+        caption: 2025 – 2027
         title: Oracle Cloud Infrastructure 2025 Certified Developer Professional
         description: |
           Issued by Oracle Cloud, click <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E0F6BEE3A97CCDC7A0493C243B94436743D36FD2D5FBAB0832D02F4B76FF0838">here</a> to view the certificate.
