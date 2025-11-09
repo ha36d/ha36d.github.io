@@ -72,6 +72,17 @@ about_content: |
   Bonus skills?
   I'm pretty handy in the kitchen and behind the bar — <mark>Cooking</mark> & <mark>Cocktail Making</mark> are my secret arts. 🍳🍸
 
+  <br>
+
+    <div style="display:flex;align-items:center;gap:20px;margin-top:10px;margin-bottom:10px;">
+      <a href="https://ketab.ir/book/4ae5fa2f-310b-413c-9239-2cf9b19e94f9" target="_blank" rel="noopener noreferrer">
+        <img src="images/biganeh.jpg" alt="Biganeh Book Cover" style="width:180px;height:180px;border-radius:50%;object-fit:cover;">
+      </a>
+      <div style="font-size:1.4em;">
+        My latest translation book (in Persian) is out. 📚 Translating this book was a true labor of love.
+      </div>
+    </div>
+
 content:
   - title: Experiences
     layout: list
