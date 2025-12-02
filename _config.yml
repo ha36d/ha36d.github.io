@@ -148,6 +148,11 @@ content:
     layout: list
     content:
       - layout: left
+        title: Professional Cloud Architect
+        caption: 2023 – 2027
+        description: |
+          Issued by Google Cloud, click <a href="https://www.credly.com/badges/a7ad59cb-a92a-4871-a3b5-b05873723096">here</a> to view the certificate.
+      - layout: left
         caption: 2025 – 2027
         title: Oracle Cloud Infrastructure 2025 Certified Architect Associate
         description: |
@@ -167,11 +172,6 @@ content:
         caption: 2024 – 2026
         description: |
           Issued by Google Cloud, click <a href="https://www.credly.com/badges/5a3e5f9a-8628-42af-8df1-8d5542d04bc5">here</a> to view the certificate.
-      - layout: left
-        title: Professional Cloud Architect
-        caption: 2023 – 2025
-        description: |
-          Issued by Google Cloud, click <a href="https://www.credly.com/badges/a7ad59cb-a92a-4871-a3b5-b05873723096">here</a> to view the certificate.
       - layout: left
         title: Certified Kubernetes Administrator (CKA)
         caption: 2023 – 2026
