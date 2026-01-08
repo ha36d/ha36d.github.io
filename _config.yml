@@ -88,9 +88,15 @@ content:
     layout: list
     content:
       - layout: left
+        title: Siemens
+        sub_title: Lead DevOps
+        caption: January 2026 – Present
+        description: |
+          Leading global cloud infrastructure initiatives.
+      - layout: left
         title: Altair
         sub_title: Lead DevOps
-        caption: April 2022 – Present
+        caption: April 2022 – January 2026
         description: |
           Leading global cloud infrastructure initiatives.
       - layout: left
@@ -147,6 +153,11 @@ content:
   - title: Certificates
     layout: list
     content:
+      - layout: left
+        title: Certified Kubernetes Security Specialist (CKS)
+        caption: 2026 – 2028
+        description: |
+          Issued by The Linux Foundation, click <a href="https://www.credly.com/earner/earned/badge/4b9082fb-9261-4114-a60b-1ac8adf51372">here</a> to view the certificate.
       - layout: left
         title: Professional Cloud Architect
         caption: 2023 – 2027
