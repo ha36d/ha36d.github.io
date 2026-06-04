@@ -194,44 +194,44 @@ content:
         description: |
           Issued by GitLab, click <a href="https://www.credly.com/badges/5e7d98de-0211-4f1f-a476-d2fa01c36cfd">here</a> to view the certificate.
 
-  - title: Projects
-    layout: list
-    content:
-      - layout: left
-        title: Geo-locational Public DNS Servers
-        caption: 2016
-        description: |
-          Tech Stack: Bind, Zebra, Cisco ASR, BGP AnyCast.
-      - layout: left
-        title: Public Email System
-        caption: 2015
-        description: |
-          Tech Stack: GlusterFS, Postfix, Dovecot, OpenLDAP, MySQL (Galera cluster).
-      - layout: left
-        title: Designing & Implementing 10 Datacenters
-        caption: 2013 – 2015
-        description: |
-          Tech Stack: OpenStack-based private cloud deployments.
-      - layout: left
-        title: Cash Subsidies Distribution System
-        caption: 2014
-        description: |
-          Tech Stack: Apache Storm, Hadoop, Cassandra, J2EE.
-      - layout: left
-        title: Enterprise Portal Development
-        caption: 2015
-        description: |
-          Tech Stack: Liferay platform.
-      - layout: left
-        title: Goods Distribution Webservice
-        caption: 2014
-        description: |
-          Tech Stack: J2EE and Oracle RAC for high availability.
-      - layout: left
-        title: Yooz Search Engine Project
-        caption: 2014 – 2015
-        description: |
-          Tech Stack: Big Data Search Engine with Hadoop, Flume, and Nutch.
+  # - title: Projects
+  #   layout: list
+  #   content:
+  #     - layout: left
+  #       title: Geo-locational Public DNS Servers
+  #       caption: 2016
+  #       description: |
+  #         Tech Stack: Bind, Zebra, Cisco ASR, BGP AnyCast.
+  #     - layout: left
+  #       title: Public Email System
+  #       caption: 2015
+  #       description: |
+  #         Tech Stack: GlusterFS, Postfix, Dovecot, OpenLDAP, MySQL (Galera cluster).
+  #     - layout: left
+  #       title: Designing & Implementing 10 Datacenters
+  #       caption: 2013 – 2015
+  #       description: |
+  #         Tech Stack: OpenStack-based private cloud deployments.
+  #     - layout: left
+  #       title: Cash Subsidies Distribution System
+  #       caption: 2014
+  #       description: |
+  #         Tech Stack: Apache Storm, Hadoop, Cassandra, J2EE.
+  #     - layout: left
+  #       title: Enterprise Portal Development
+  #       caption: 2015
+  #       description: |
+  #         Tech Stack: Liferay platform.
+  #     - layout: left
+  #       title: Goods Distribution Webservice
+  #       caption: 2014
+  #       description: |
+  #         Tech Stack: J2EE and Oracle RAC for high availability.
+  #     - layout: left
+  #       title: Yooz Search Engine Project
+  #       caption: 2014 – 2015
+  #       description: |
+  #         Tech Stack: Big Data Search Engine with Hadoop, Flume, and Nutch.
 
   - title: Education
     layout: list
@@ -260,7 +260,8 @@ content:
       - 🎸 Playing Guitar (especially Rock and Post-Rock)
       - 🎬 Cinephilia (I breathe movies)
       - 📚 Bibliophilia (Books are my second home)
-      - 📸 Photography (film photographer move towards digital)
+      - 📸 Photography (fine art photography)
+      - 🏃‍♂️ Sport (Running, Bodybuilding, Swimming)
 
 # Footer
 footer_show_references: false
